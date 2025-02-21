@@ -1,0 +1,15 @@
+{
+  "name": "cypress-zone-defense",
+  "version": "1.0.0",
+  "description": "CypressZoneDefense - NBA AQA UI Interview Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.0.3"
+  }
+}

@@ -1,0 +1,3 @@
+// ❌ Issue: Incorrect validation - just checking if the page contains "Status Codes".
+// ❌ Issue: Test does not verify the expected status code message on the new page.
+// ❌ Issue: Test does not navigate back to check the next status code link.
