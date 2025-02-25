@@ -21,14 +21,19 @@ Your task is to implement and debug Cypress test cases to verify core UI functio
 
     `npx cypress run`
 
-
 # Tasks
 1. Implement UI Tests - Write Cypress tests for the following pages:
+- Login (basic auth)
+- Checkboxes
+- Upload
+
+2. Bonus tests if time permits
 - Drag and Drop
 - Dynamic Content
-- JavaScript Alerts
+- Javascript Alert
 
-2. Debug and Fix a Broken Test
+
+3. Debug and Fix a Broken Test
 - A pre-written test in cypress/e2e/tests/brokenTest.cy.js contains intentional issues
 - Your task: Identify and fix missing assertions, incorrect selectors, or other flaws to make the test pass reliably.
 
